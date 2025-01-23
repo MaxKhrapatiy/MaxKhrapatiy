@@ -8,7 +8,9 @@
 - ⚡ Fun fact: ...
 -->
 My e-mail: <max.khrapatiy.dev@gmail.com>
-My Telegram: @NewAge1979
+
+My Telegram: [@NewAge1979](https://t.me/NewAge1979)
+
 <!---
 MaxKhrapatiy/MaxKhrapatiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
