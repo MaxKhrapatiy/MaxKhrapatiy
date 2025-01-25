@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Max Khrapatiy aka @MaxKhrapatiy
 # 😄 Cześć, nazywam się Maksym Chrapatyj
+
+## 👀 Java Developer, MS SQL DBA, PostgreSQL DBA
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
