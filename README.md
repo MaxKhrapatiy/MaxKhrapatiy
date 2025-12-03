@@ -52,9 +52,7 @@
 ](https://t.me/NewAge1979)
 ![PhoneRU](https://img.shields.io/badge/-ED8B00?style=for-the-badge&label=%2B7%20(962)%20367-17-03)
 
-<hr>
-<div align="center">![GitHub last commit](https://img.shields.io/github/last-commit/MaxKhrapatiy/MaxKhrapatiy)
-</div>
+![GitHub last commit](https://img.shields.io/github/last-commit/MaxKhrapatiy/MaxKhrapatiy)
 
 <!---
 MaxKhrapatiy/MaxKhrapatiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
