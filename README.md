@@ -5,8 +5,10 @@
 ## 👀 Java Developer, MS SQL DBA, PostgreSQL DBA
 
 ## Technology stack:
-![Java 17](https://img.shields.io/badge/17-ED8B00?style=for-the-badge&logo=javacore&logoColor=%23000000&label=Java)
-![Java 21](https://img.shields.io/badge/21-ED8B00?style=for-the-badge&logo=javacore&logoColor=%23000000&label=Java)
+![Java 17](https://img.shields.io/badge/17-ED8B00?style=for-the-badge&logo=java&logoColor=%23000000&label=Java)
+![Java 21](https://img.shields.io/badge/21-ED8B00?style=for-the-badge&logo=java&logoColor=%23000000&label=Java)
+![Spring Framework 6](https://img.shields.io/badge/6-ED8B00?style=for-the-badge&logo=spring&logoColor=%23000000&label=Spring%20Framework)
+![Spring Boot 3.4](https://img.shields.io/badge/3.4-ED8B00?style=for-the-badge&logo=springboot&logoColor=%23000000&label=Spring%20Boot)
 
 
 <!--
