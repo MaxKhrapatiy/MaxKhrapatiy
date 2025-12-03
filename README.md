@@ -52,7 +52,6 @@
 ](https://t.me/NewAge1979)
 ![PhoneRU](https://img.shields.io/badge/-ED8B00?style=for-the-badge&label=%2B7%20(962)%20367-17-03)
 
-My phone: +7 (962) 367-17-03
 <!---
 MaxKhrapatiy/MaxKhrapatiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
