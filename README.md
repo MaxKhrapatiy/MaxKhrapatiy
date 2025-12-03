@@ -50,6 +50,7 @@
 ](mailto:max.khrapatiy.dev@gmail.com)
 [![My Telegram](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&label=%40NewAge1979)
 ](https://t.me/NewAge1979)
+![PhoneRU](https://img.shields.io/badge/-ED8B00?style=for-the-badge&label=%2B7%20(962)%20367-17-03)
 
 My phone: +7 (962) 367-17-03
 <!---
