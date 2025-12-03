@@ -5,7 +5,9 @@
 ## 👀 Java Developer, MS SQL DBA, PostgreSQL DBA
 
 ## Technology stack:
-![Java 17](https://img.shields.io/badge/17-ED8B00?logo=javacore&logoColor=%23000000&label=Java)
+![Java 17](https://img.shields.io/badge/17-ED8B00?style=for-the-badge&logo=javacore&logoColor=%23000000&label=Java)
+![Java 21](https://img.shields.io/badge/21-ED8B00?style=for-the-badge&logo=javacore&logoColor=%23000000&label=Java)
+
 
 <!--
 - 👀 I’m interested in ...
