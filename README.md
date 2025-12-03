@@ -18,6 +18,12 @@
 ![MongoDB 8](https://img.shields.io/badge/8-ED8B00?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=MongoDB)
 ![Hibernate 6](https://img.shields.io/badge/6-ED8B00?style=for-the-badge&logo=hibernate&logoColor=%2359666C&label=Hibernate)
 
+![Git](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=git&logoColor=%23F05032&label=Git)
+![GitHub](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=github&logoColor=%23181717&label=GitHub)
+![GitHub Actions](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=githubactions&logoColor=%232088FF&label=GitHub%20Actions)
+![NGINX](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=nginx&logoColor=%23009639&label=NGINX)
+![Docker](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=docker&logoColor=%232496ED&label=Docker)
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
