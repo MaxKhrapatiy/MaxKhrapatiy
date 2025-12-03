@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Max Khrapatiy aka @MaxKhrapatiy
 # 😄 Cześć, nazywam się Maksym Chrapatyj
 
-## 👀 Java Developer, MS SQL DBA, PostgreSQL DBA
+## 👀 Java Developer, MS SQL Developer, PostgreSQL Developer
 
 ## Technology stack:
 ![Java 17](https://img.shields.io/badge/17-ED8B00?style=for-the-badge&logo=java&logoColor=%23000000&label=Java)
@@ -32,6 +32,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contacts:
 My e-mail: <max.khrapatiy.dev@gmail.com>
 
 My Telegram: [@NewAge1979](https://t.me/NewAge1979)
