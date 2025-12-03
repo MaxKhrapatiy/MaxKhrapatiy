@@ -11,6 +11,12 @@
 ![Spring Boot 3.4](https://img.shields.io/badge/3.4-ED8B00?style=for-the-badge&logo=springboot&logoColor=%236DB33F&label=Spring%20Boot)
 ![Spring Security 6](https://img.shields.io/badge/6-ED8B00?style=for-the-badge&logo=springsecurity&logoColor=%236DB33F&label=Spring%20Security)
 
+![ANSI SQL](https://img.shields.io/badge/-ED8B00?style=for-the-badge&label=ANSI%20SQL)
+![MySQL](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=mysql&logoColor=%234479A1&label=MySQL)
+![PostgreSQL 15](https://img.shields.io/badge/15-ED8B00?style=for-the-badge&logo=postgresql&logoColor=%234169E1&label=PostgreSQL)
+![PostgreSQL 16](https://img.shields.io/badge/16-ED8B00?style=for-the-badge&logo=postgresql&logoColor=%234169E1&label=PostgreSQL)
+![MongoDB 8](https://img.shields.io/badge/8-ED8B00?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=MongoDB)
+![Hibernate](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=hibernate&logoColor=%2359666C&label=Hibernate)
 
 <!--
 - 👀 I’m interested in ...
