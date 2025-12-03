@@ -46,9 +46,10 @@
 -->
 
 ## Contacts:
-My e-mail: <max.khrapatiy.dev@gmail.com>
+My e-mail: [![My e-mail](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=gmail&logoColor=%23EA4335&label=max.khrapatiy.dev%40gmail.com)
+](mailto:max.khrapatiy.dev@gmail.com)
 
-[![My Telegram](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&label=%40NewAge1979)
+My Telegram: [![My Telegram](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&label=%40NewAge1979)
 ](https://t.me/NewAge1979)
 
 My phone: +7 (962) 367-17-03
